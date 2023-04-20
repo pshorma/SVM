@@ -1,0 +1,3 @@
+Also can Refer
+
+https://github.com/campusx-official/Support-Vector-Machines-SVM-/blob/master/SVM%20Demo.ipynb
